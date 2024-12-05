@@ -1,0 +1,26 @@
+body{
+    background-image: url(../image/web.jpg);
+    background-repeat: no-repeat;
+    /* background-position:center; */
+    /* background-position: left; */
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    /* background-color: chartreuse; */
+    background-position: right;
+    /* margin-bottom: 100px; */
+}
+
+#inline{
+    border: 3px rgb(234, 1, 91) solid;
+   /* display: none; */
+   /* display: inline; */
+   /* margin: 20px; */
+   padding: 15px;
+   display: block;
+   background-color: darkslateblue;
+
+}
+/* .top{
+    display: block;
+} */
